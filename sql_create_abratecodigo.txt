@@ -1,0 +1,76 @@
+--
+--
+CREATE TABLE token(
+	id_token SERIAL,
+	token <<>>,
+	revogado boolean NOT NULL,
+	criado_em timestamp,
+	altualizado_em timestamp,
+	CONSTRAINT id_token_pk PRIMARY KEY("id_token")
+);
+
+CREATE TABLE grupo(
+	id_grupo SERIAL,
+	id_token <<>>
+	nome text NOT NULL,
+	criado_em timestamp,
+	altualizado_em timestamp,
+	CONSTRAINT id_grupo_pk PRIMARY KEY("id_grupo")
+);
+
+CREATE TABLE usuario(
+	id_usuario SERIAL,
+	id_grupo integer NOT NULL,
+	nome text NOT NULL,
+	email text,
+	criado_em timestamp,
+	altualizado_em timestamp,
+	CONSTRAINT id_usuario_pk PRIMARY KEY("id_usuario")
+);
+
+CREATE TABLE interacao(
+	id_interacao SERIAL,
+	tipo_acao text NOT NULL,
+	id_usuario integer NOT NULL,
+	id_obra integer NOT NULL,
+	ancora text,
+	posicao_x integer,
+	posicao_y integer,
+	conteudo text,
+	tipografia text,
+	tamanho integer,
+	rotacao float,
+	cor text,
+	criado_em timestamp,
+	altualizado_em timestamp,
+	CONSTRAINT id_interacao_pk PRIMARY KEY("id_interacao")
+);
+
+CREATE TABLE obra(
+	id_obra integer NOT NULL,
+	tombo text NOT NULL,
+	artista text NOT NULL,
+	titulo text,
+	data text,
+	tecnica text,
+	dimens_largura_cm float,
+	dimens_altura_cm float,
+	dimens_prof_cm float,
+	dimens_adicional text,
+	procedencia text,
+	obsercacoes text,
+	acesso text,
+	CONSTRAINT id_obra_pk PRIMARY KEY("id_obra")
+);
+
+--relacao grupo - token
+ALTER TABLE public.grupo ADD CONSTRAINT grupo_fk0 FOREIGN KEY (id_token) REFERENCES public.token (id_token);
+
+--relacao usuario - grupo
+ALTER TABLE public.usuario ADD CONSTRAINT usuario_fk0 FOREIGN KEY (id_grupo) REFERENCES public.grupo (id_grupo);
+
+--relacao interacao - usuario // interacao - obra
+ALTER TABLE public.interacao ADD CONSTRAINT interacao_fk0 FOREIGN KEY (id_usuario) REFERENCES public.usuario (id_usuario);
+ALTER TABLE public.interacao ADD CONSTRAINT interacao_fk1 FOREIGN KEY (id_obra) REFERENCES public.obra (id_obra);
+--
+--
