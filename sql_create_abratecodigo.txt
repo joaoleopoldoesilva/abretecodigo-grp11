@@ -2,7 +2,7 @@
 --
 CREATE TABLE token(
 	id_token SERIAL,
-	token <<>>,
+	token text,
 	revogado boolean NOT NULL,
 	criado_em timestamp,
 	altualizado_em timestamp,
@@ -11,7 +11,7 @@ CREATE TABLE token(
 
 CREATE TABLE grupo(
 	id_grupo SERIAL,
-	id_token <<>>
+	id_token integer NOT NULL,
 	nome text NOT NULL,
 	criado_em timestamp,
 	altualizado_em timestamp,
