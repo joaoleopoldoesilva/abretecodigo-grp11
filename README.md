@@ -8,7 +8,7 @@ Este repositório segura o trabalho da equipe número 11. Os integrantes da equi
 
 # Ideação e solucão
 ## mudarte
-O mudarte, nome enxuto para Mude a Arte!, é um aplicativo voltado para ampliar a interação entre você, usuário(a), e coleções e obras de instituições culturais. Nosso principal objetivo é permitir que você acesse e modifique obras de arte. Acesse a galeria, faça seu remix e divirta-se! Ah, não se esqueça de compartilhar sua obra com seus amigos!
+O mudarte é um aplicativo feito para você interagir com as coleções e obras das instituições culturais. Nosso objetivo é divulgar o conteúdo dessas instituições para você se divertir, mas também aprender. Modifique as obras de arte, faça memes, comente, converse com outras pessoas, use em trabalhos da escola, rabisque... Remixe a arte como preferir. Acesse a galeria e divirta-se! Ah, e não se esqueça de compartilhar sua obra com amigos!
 
 [Conheça a ideia aqui](https://www.canva.com/design/DAELhr-Op08/JoWgJnkKwQh92RcuDIQOxQ/view?utm_content=DAELhr-Op08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7)
 
