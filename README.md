@@ -7,8 +7,8 @@ Este repositório segura o trabalho da equipe número 11. Os integrantes da equi
 - Rondon de Andrade (desenvolvimento)
 
 # Ideação e solucão
-## mudarte
-O mudarte é um aplicativo feito para você interagir com as coleções e obras das instituições culturais. Nosso objetivo é divulgar o conteúdo dessas instituições para você se divertir, mas também aprender. Modifique as obras de arte, faça memes, comente, converse com outras pessoas, use em trabalhos da escola, rabisque... Remixe a arte como preferir. Acesse a galeria e divirta-se! Ah, e não se esqueça de compartilhar sua obra com amigos!
+## mudarte!
+O mudarte! é um aplicativo feito para você interagir com coleções e obras de arte. Nosso objetivo é divulgar o conteúdo de galerias, bibliotecas, arquivos e museus para você se divertir, mas também aprender. Modifique as obras de arte, faça memes, comente, converse com outras pessoas, use em trabalhos da escola, rabisque, remixe... mude a arte como preferir. Acesse a galeria e divirta-se! Ah, e não se esqueça de compartilhar sua obra com seus amigos!
 
 [Conheça o mudarte (versão alpha)](http://mudarte.infinityfreeapp.com/?i=1)
 
