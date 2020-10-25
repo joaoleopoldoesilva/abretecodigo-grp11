@@ -5,6 +5,7 @@ Este repositório segura o trabalho da equipe número 11. Os integrantes da equi
 - Lucas Villar Padilha (ux e design)
 - Paola de Ávila Barbosa (ideação e cultura)
 - Rondon de Andrade (desenvolvimento)
+---
 
 ![mudarte](https://trello-attachments.s3.amazonaws.com/5f89b4b93df2100559cb6f8d/5f960db3809b450cd7b53a52/32d58ac5a8cfffbac119351745e495fb/logo-direita.svg)
 
