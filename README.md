@@ -10,8 +10,8 @@ Este repositório segura o trabalho da equipe número 11. Os integrantes da equi
 ## mudarte
 O mudarte, nome enxuto para Mude a Arte!, é um aplicativo voltado para ampliar a interação entre você, usuário(a), e coleções e obras de instituições culturais. Nosso principal objetivo é permitir que você acesse e modifique obras de arte. Acesse a galeria, faça seu remix e divirta-se! Ah, não se esqueça de compartilhar sua obra com seus amigos!
 
-[Conheça a ideia!](https://www.canva.com/design/DAELhr-Op08/JoWgJnkKwQh92RcuDIQOxQ/view?utm_content=DAELhr-Op08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7)
+[Conheça a ideia aqui](https://www.canva.com/design/DAELhr-Op08/JoWgJnkKwQh92RcuDIQOxQ/view?utm_content=DAELhr-Op08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7)
 
-[Conheça o protótipo!](https://www.figma.com/proto/CdZGo7wQPdinr24A0qheTg/Hackathon-Abra-te-c%C3%B3digo?node-id=17%3A1&viewport=397%2C592%2C0.18271805346012115&scaling=scale-down)
+[Conheça o protótipo aqui](https://www.figma.com/proto/CdZGo7wQPdinr24A0qheTg/Hackathon-Abra-te-c%C3%B3digo?node-id=17%3A1&viewport=397%2C592%2C0.18271805346012115&scaling=scale-down)
 
-[Conheça o dataset base, cedido pelo MAC-USP](https://github.com/shawee-io/abrete-codigo-datasets/tree/main/Museu%20de%20Arte%20Contempor%C3%A2nea%20da%20Universidade%20de%20S%C3%A3o%20Paulo)
+[Conheça o dataset base, cedido pelo MAC-USP, aqui](https://github.com/shawee-io/abrete-codigo-datasets/tree/main/Museu%20de%20Arte%20Contempor%C3%A2nea%20da%20Universidade%20de%20S%C3%A3o%20Paulo)
