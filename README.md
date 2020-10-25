@@ -12,7 +12,9 @@ O mudarte é um aplicativo feito para você interagir com as coleções e obras 
 
 [Conheça o mudarte (versão alpha)](http://mudarte.infinityfreeapp.com/?i=1)
 
-[Conheça a ideia](https://www.canva.com/design/DAELhr-Op08/JoWgJnkKwQh92RcuDIQOxQ/view?utm_content=DAELhr-Op08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7)
+[Conheça a ideia - apresentação](https://www.canva.com/design/DAELhr-Op08/JoWgJnkKwQh92RcuDIQOxQ/view?utm_content=DAELhr-Op08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#7)
+
+[Conheça a ideia - vídeo](https://www.youtube.com/watch?v=TZ0KBBhOI88&t=12s&ab_channel=Paolade%C3%81vilaBarbosa)
 
 [Conheça o desenho protótipo](https://www.figma.com/proto/CdZGo7wQPdinr24A0qheTg/Hackathon-Abra-te-c%C3%B3digo?node-id=17%3A1&viewport=397%2C592%2C0.18271805346012115&scaling=scale-down)
 
