@@ -9,8 +9,7 @@ Este repositório segura o trabalho da equipe número 11. Os integrantes da equi
 
 ![mudarte](https://trello-attachments.s3.amazonaws.com/5f89b4b93df2100559cb6f8d/5f960db3809b450cd7b53a52/32d58ac5a8cfffbac119351745e495fb/logo-direita.svg)
 
-
-O mudarte! é um aplicativo que amplia o diálogo e a interação da sociedade com as coleções das instituições culturais, podendo ser utilizado por um usuário, um grupo e também em atividades de educação formal e informal. Visando aumentar o interesse por esses conteúdos, o aplicativo oferece informações sobre as obras e também uma interatividade criativa com as mesmas. Os usuários podem: criar memes, comentar, rabiscar e fazer suas próprias coleções de arte. Os dados recolhidos dessas interações poderão ser utilizados para mapear o comportamento dos(as) usuário(as), observando quais obras e autores(as) geram maior engajamento. Além disso, possibilita às instituições pensar e refletir sobre suas práticas culturais e educativas visando melhorar e aproximar sua relação com toda a sociedade.
+<p align="justify">O mudarte! é um aplicativo que amplia o diálogo e a interação da sociedade com as coleções das instituições culturais, podendo ser utilizado por um usuário, um grupo e também em atividades de educação formal e informal. Visando aumentar o interesse por esses conteúdos, o aplicativo oferece informações sobre as obras e também uma interatividade criativa com as mesmas. Os usuários podem: criar memes, comentar, rabiscar e fazer suas próprias coleções de arte. Os dados recolhidos dessas interações poderão ser utilizados para mapear o comportamento dos(as) usuário(as), observando quais obras e autores(as) geram maior engajamento. Além disso, possibilita às instituições pensar e refletir sobre suas práticas culturais e educativas visando melhorar e aproximar sua relação com toda a sociedade.</p>
 
 - [Conheça o mudarte (versão alpha)](http://mudarte.infinityfreeapp.com/?i=1)
 
